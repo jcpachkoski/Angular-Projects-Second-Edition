@@ -4,14 +4,14 @@
 
 export const environment = {
   production: false,
-  firebaseConfig: {
-    apiKey: '<Your API key>',
-    authDomain: '<Your project auth domain>',
-    projectId: '<Your project ID>',
-    storageBucket: '<Your storage bucket>',
-    messagingSenderId: '<Your messaging sender ID>',
-    appId: '<Your application ID>'
-  }
+  firebaseConfig = {
+  apiKey: "AIzaSyDJzLDA45zmHFD3QmCiZU6UC66WzCtxh2U",
+  authDomain: "phototag-e1e5a.firebaseapp.com",
+  projectId: "phototag-e1e5a",
+  storageBucket: "phototag-e1e5a.appspot.com",
+  messagingSenderId: "809578126692",
+  appId: "1:809578126692:web:9b324db8fc94e62a25ee71"
+ }
 };
 
 /*
